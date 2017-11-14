@@ -9,7 +9,7 @@ powercat is a powershell function.  First you need to load the function before y
     Load The Function From Downloaded .ps1 File:
         . .\powercat.ps1
     Load The Function From URL:
-        IEX (New-Object System.Net.Webclient).DownloadString('https://raw.githubusercontent.com/besimorhino/powercat/master/powercat.ps1')
+        IEX (New-Object System.Net.Webclient).DownloadString('https://raw.githubusercontent.com/karlmaborg/powercat/master/powercat.ps1')
 
 ### Parameters:
     -l      Listen for a connection.                             [Switch]
